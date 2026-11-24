@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import mePhoto from './assets/Me.jpg';
+import mePhoto from './assets/Me.JPG';
 import './style.css';
 import './profile-updates.css';
 
